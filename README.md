@@ -16,3 +16,4 @@ https://netbeans.apache.org/kb/docs/ide/git.html
 https://git-scm.com/book/fr/v2
 CHESNEAU BAPTISTE
 De subercaseaux Bradley
+BORY Jeremy

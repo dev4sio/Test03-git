@@ -17,4 +17,4 @@ https://git-scm.com/book/fr/v2
 CHESNEAU BAPTISTE
 De subercaseaux Bradley
 BORY Jeremy
-DESSEDE Romain
+BESSEDE Romain

@@ -14,5 +14,7 @@ https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-confi
 https://netbeans.apache.org/kb/docs/ide/git.html
 ## Git : Guide de référence en français
 https://git-scm.com/book/fr/v2
-
-BESSEDE Romain : 06.49.18.06.39  /  romain.bessede@gmail.com
+CHESNEAU BAPTISTE
+De subercaseaux Bradley
+BORY Jeremy
+DESSEDE Romain
